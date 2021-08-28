@@ -1,4 +1,6 @@
 ** Creating this project
++ Guide :: https://maybevoid.com/posts/2019-01-27-getting-started-haskell-nix.html
+
 #+BEGIN_SRC bash -n :i bash :async :results verbatim code
   # Install nix package manager
   curl https://nixos.org/nix/install | sh
