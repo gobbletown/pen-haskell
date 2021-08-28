@@ -1,0 +1,3 @@
+* Pen Haskell
+
+A haskell library for working with Pen.el prompt functions.
