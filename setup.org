@@ -1,7 +1,7 @@
-# Install nix package manager
-curl https://nixos.org/nix/install | sh
-
-# Install cabal globally
-nix-env -i cabal-install
-
-
+#+BEGIN_SRC bash -n :i bash :async :results verbatim code
+  # Install nix package manager
+  curl https://nixos.org/nix/install | sh
+  
+  # Install cabal globally
+  nix-env -i cabal-install
+#+END_SRC
