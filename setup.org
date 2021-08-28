@@ -1,0 +1,7 @@
+# Install nix package manager
+curl https://nixos.org/nix/install | sh
+
+# Install cabal globally
+nix-env -i cabal-install
+
+
